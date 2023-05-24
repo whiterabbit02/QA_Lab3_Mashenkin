@@ -93,7 +93,7 @@ namespace Testirovanie3
             return s;
         }
         /// <summary>
-        /// <brief>Базовый объект класса "Число"</brief>
+        /// <brief>Конструктор класса "Число"</brief>
         /// </summary>
         public Number(int d1, int d2, int d3)
         {
@@ -186,7 +186,7 @@ namespace Testirovanie3
             return n;
         }
         /// <summary>
-        /// <brief>Базовый класса "Знак"</brief>
+        /// <brief>Конструктор класса "Знак"</brief>
         /// </summary>
         public Sign(int d1, int d2, int d3, int s) : base(d1, d2, d3)
         {
